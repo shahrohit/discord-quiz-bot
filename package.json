@@ -1,0 +1,21 @@
+{
+  "name": "discord_quiz_bot",
+  "version": "1.0.0",
+  "description": "This is Discord Quiz Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Rohit Shah",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.4",
+    "json-server": "^1.0.0-alpha.23"
+  },
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}

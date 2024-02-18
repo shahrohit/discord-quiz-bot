@@ -1,0 +1,100 @@
+{
+  "users": [],
+  "questions": [
+    {
+      "id": "1",
+      "question": "How do you declare a variable in JavaScript?",
+      "options": [
+        "var x;",
+        "let x = 10;",
+        "const y = \"hello\";",
+        "All of the above"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": "2",
+      "question": "What is the correct way to print \"Hello World\" to the console?",
+      "options": [
+        "print(\"Hello World\");",
+        "alert(\"Hello World\");",
+        "console.log(\"Hello World\");",
+        "echo(\"Hello World\");"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": "3",
+      "question": "What data type is the value `true`?",
+      "options": ["String", "Number", "Boolean", "Object"],
+      "answer": "2"
+    },
+    {
+      "id": "4",
+      "question": "What is the operator used to compare two values?",
+      "options": ["=", "==", "===", "+"],
+      "answer": "2"
+    },
+    {
+      "id": "5",
+      "question": "What is the output of the following code? `let x = 5 + 3 * 2;`",
+      "options": ["8", "13", "15", "35"],
+      "answer": "1"
+    },
+    {
+      "id": "6",
+      "question": "How do you select an element with the ID \"myElement\" in JavaScript?",
+      "options": [
+        "document.getElementById(\"myElement\");",
+        "document.getElementByName(\"myElement\");",
+        "document.querySelector(\"#myElement\");",
+        "document.select(\"myElement\");"
+      ],
+      "answer": "0"
+    },
+    {
+      "id": "7",
+      "question": "What is the purpose of a function in JavaScript?",
+      "options": [
+        "To store data",
+        "To repeat a block of code",
+        "To define a custom data type",
+        "All of the above"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": "8",
+      "question": "How do you call a function named `greet`?",
+      "options": [
+        "greet();",
+        "call greet();",
+        "function greet();",
+        "run greet();"
+      ],
+      "answer": "0"
+    },
+    {
+      "id": "9",
+      "question": "What is the difference between `var` and `let` for declaring variables?",
+      "options": [
+        "Nothing, they are interchangeable.",
+        "var has global scope, let has block scope.",
+        "var can be redeclared, let cannot.",
+        "All of the above"
+      ],
+      "answer": "1"
+    },
+    {
+      "id": "10",
+      "question": "What is the correct way to add an event listener to a button?",
+      "options": [
+        "button.addEventListener(\"click\", function() { /* code */ });",
+        "button.onClick = function() { /* code */ };",
+        "button.on(\"click\", function() { /* code */ });",
+        "button.trigger(\"click\", function() { /* code */ });"
+      ],
+      "answer": "0"
+    }
+  ]
+}
